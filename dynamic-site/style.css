@@ -1,0 +1,41 @@
+/*
+Theme Name: Custom HTML Theme
+Theme URI: https://example.com
+Author: Your Name
+Author URI: https://example.com
+Description: Пустая тема WordPress для работы с HTML.
+Version: 1.0
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: custom-html-theme
+*/
+p {
+    color: rgb(0, 0, 0);
+    font-size: 14px;
+  }
+ 
+  h1 {
+    color: rgb(0, 0, 0);
+    font-size: 32px;
+    text-align: center;
+  }
+ 
+  li {
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+    text-align: left;
+  }
+ 
+  p {
+    letter-spacing: 0.01em;
+    word-spacing: 1px;
+    line-height: 1.5;
+    text-indent: 1px;
+  }
+ 
+  li {
+    letter-spacing: 0.01em;
+    word-spacing: 1px;
+    line-height: 1.5;
+    text-indent: 1px;
+  }
